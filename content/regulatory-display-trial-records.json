@@ -1,0 +1,551 @@
+{
+  "checkedAt": "2026-10-27",
+  "source": "ClinicalTrials.gov API v2; public registry records",
+  "records": [
+    {
+      "nctId": "NCT07668414",
+      "url": "https://clinicaltrials.gov/study/NCT07668414",
+      "checkedAt": "2026-10-27",
+      "title": "A Research Study Investigating How Well the Medicine Zenagamtide Helps People With Excess Body Weight Lose Weight Compared to Semaglutide",
+      "status": "RECRUITING",
+      "lastUpdatePosted": "2026-09-28",
+      "estimatedOrActualCompletion": {
+        "date": "2028-10-10",
+        "type": "ESTIMATED"
+      },
+      "interventions": [
+        {
+          "name": "Zenagamtide",
+          "type": "DRUG"
+        },
+        {
+          "name": "Semaglutide",
+          "type": "DRUG"
+        },
+        {
+          "name": "Placebo (matched to semaglutide)",
+          "type": "DRUG"
+        },
+        {
+          "name": "Placebo (matched to zenagamtide)",
+          "type": "DRUG"
+        }
+      ]
+    },
+    {
+      "nctId": "NCT07742735",
+      "url": "https://clinicaltrials.gov/study/NCT07742735",
+      "checkedAt": "2026-10-27",
+      "title": "A Study to Investigate the Efficacy and Safety of Apraglutide Compared With Placebo in Adult Participants With Short Bowel Syndrome Associated With Intestinal Failure (SBS-IF)",
+      "status": "RECRUITING",
+      "lastUpdatePosted": "2026-08-04",
+      "estimatedOrActualCompletion": {
+        "date": "2029-10",
+        "type": "ESTIMATED"
+      },
+      "interventions": [
+        {
+          "name": "Apraglutide",
+          "type": "DRUG"
+        },
+        {
+          "name": "Placebo",
+          "type": "DRUG"
+        }
+      ]
+    },
+    {
+      "nctId": "NCT07220642",
+      "url": "https://clinicaltrials.gov/study/NCT07220642",
+      "checkedAt": "2026-10-27",
+      "title": "Weight Loss in People Living With Overweight or Obesity Following Treatment With Cagrilintide",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "lastUpdatePosted": "2026-08-06",
+      "estimatedOrActualCompletion": {
+        "date": "2027-06-29",
+        "type": "ESTIMATED"
+      },
+      "interventions": [
+        {
+          "name": "Cagrilintide",
+          "type": "DRUG"
+        },
+        {
+          "name": "Placebo",
+          "type": "DRUG"
+        }
+      ]
+    },
+    {
+      "nctId": "NCT05669755",
+      "url": "https://clinicaltrials.gov/study/NCT05669755",
+      "checkedAt": "2026-10-27",
+      "title": "REDEFINE 3: A Research Study to See the Effects of CagriSema in People Living With Diseases in the Heart and Blood Vessels",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "lastUpdatePosted": "2026-08-31",
+      "estimatedOrActualCompletion": {
+        "date": "2027-10-14",
+        "type": "ESTIMATED"
+      },
+      "interventions": [
+        {
+          "name": "Cagrilintide",
+          "type": "DRUG"
+        },
+        {
+          "name": "Semaglutide",
+          "type": "DRUG"
+        },
+        {
+          "name": "Placebo",
+          "type": "DRUG"
+        }
+      ]
+    },
+    {
+      "nctId": "NCT07197944",
+      "url": "https://clinicaltrials.gov/study/NCT07197944",
+      "checkedAt": "2026-10-27",
+      "title": "Efficacy And Safety Evaluation of Glepaglutide in Treatment of SBS",
+      "status": "RECRUITING",
+      "lastUpdatePosted": "2026-09-29",
+      "estimatedOrActualCompletion": {
+        "date": "2032-02-28",
+        "type": "ESTIMATED"
+      },
+      "interventions": [
+        {
+          "name": "Glepaglutide",
+          "type": "DRUG"
+        },
+        {
+          "name": "Placebo",
+          "type": "OTHER"
+        }
+      ]
+    },
+    {
+      "nctId": "NCT06651151",
+      "url": "https://clinicaltrials.gov/study/NCT06651151",
+      "checkedAt": "2026-10-27",
+      "title": "NeoLIPA: Neoadjuvant LTX-315 in Combination with Pembrolizumab in Resectable Stage III/IV Melanoma",
+      "status": "RECRUITING",
+      "lastUpdatePosted": "2024-10-26",
+      "estimatedOrActualCompletion": {
+        "date": "2031-05",
+        "type": "ESTIMATED"
+      },
+      "interventions": [
+        {
+          "name": "LTX-315 + pembrolizumab",
+          "type": "DRUG"
+        }
+      ]
+    },
+    {
+      "nctId": "NCT06948214",
+      "url": "https://clinicaltrials.gov/study/NCT06948214",
+      "checkedAt": "2026-10-27",
+      "title": "Phase 3 Study of LUM-201 in Children With Growth Hormone Deficiency",
+      "status": "RECRUITING",
+      "lastUpdatePosted": "2026-10-19",
+      "estimatedOrActualCompletion": {
+        "date": "2028-01",
+        "type": "ESTIMATED"
+      },
+      "interventions": [
+        {
+          "name": "LUM-201",
+          "type": "DRUG"
+        },
+        {
+          "name": "Matched Placebo (Capsules)",
+          "type": "OTHER"
+        }
+      ]
+    },
+    {
+      "nctId": "NCT07281079",
+      "url": "https://clinicaltrials.gov/study/NCT07281079",
+      "checkedAt": "2026-10-27",
+      "title": "A Study of NNZ-2591 in Pediatric Participants With Phelan-McDermid Syndrome",
+      "status": "RECRUITING",
+      "lastUpdatePosted": "2026-09-28",
+      "estimatedOrActualCompletion": {
+        "date": "2027-11-15",
+        "type": "ESTIMATED"
+      },
+      "interventions": [
+        {
+          "name": "NNZ-2591",
+          "type": "DRUG"
+        },
+        {
+          "name": "Placebo",
+          "type": "DRUG"
+        }
+      ]
+    },
+    {
+      "nctId": "NCT07795164",
+      "url": "https://clinicaltrials.gov/study/NCT07795164",
+      "checkedAt": "2026-10-27",
+      "title": "Phase 3 Study of the Efficacy, Safety, and Clinical Outcomes of Pemvidutide in MASH",
+      "status": "RECRUITING",
+      "lastUpdatePosted": "2026-09-23",
+      "estimatedOrActualCompletion": {
+        "date": "2032-12",
+        "type": "ESTIMATED"
+      },
+      "interventions": [
+        {
+          "name": "Pemvidutide",
+          "type": "DRUG"
+        },
+        {
+          "name": "Placebo",
+          "type": "OTHER"
+        }
+      ]
+    },
+    {
+      "nctId": "NCT07843498",
+      "url": "https://clinicaltrials.gov/study/NCT07843498",
+      "checkedAt": "2026-10-27",
+      "title": "A Phase III Study to Evaluate the Efficacy and Safety of Petrelintide in Participants With Overweight or Obesity",
+      "status": "RECRUITING",
+      "lastUpdatePosted": "2026-10-07",
+      "estimatedOrActualCompletion": {
+        "date": "2029-03-22",
+        "type": "ESTIMATED"
+      },
+      "interventions": [
+        {
+          "name": "Petrelintide",
+          "type": "COMBINATION_PRODUCT"
+        },
+        {
+          "name": "Placebo",
+          "type": "COMBINATION_PRODUCT"
+        }
+      ]
+    },
+    {
+      "nctId": "NCT06383390",
+      "url": "https://clinicaltrials.gov/study/NCT06383390",
+      "checkedAt": "2026-10-27",
+      "title": "The Effect of Retatrutide Once Weekly on Cardiovascular Outcomes and Kidney Outcomes in Adults Living With Obesity (TRIUMPH-Outcomes)",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "lastUpdatePosted": "2026-10-08",
+      "estimatedOrActualCompletion": {
+        "date": "2029-02",
+        "type": "ESTIMATED"
+      },
+      "interventions": [
+        {
+          "name": "Retatrutide",
+          "type": "DRUG"
+        },
+        {
+          "name": "Placebo",
+          "type": "DRUG"
+        }
+      ]
+    },
+    {
+      "nctId": "NCT06632444",
+      "url": "https://clinicaltrials.gov/study/NCT06632444",
+      "checkedAt": "2026-10-27",
+      "title": "LIVERAGE™: A Study to Test Whether Survodutide Helps People With a Liver Disease Called NASH/MASH Who Have Moderate or Advanced Liver Fibrosis",
+      "status": "RECRUITING",
+      "lastUpdatePosted": "2026-10-14",
+      "estimatedOrActualCompletion": {
+        "date": "2031-12-27",
+        "type": "ESTIMATED"
+      },
+      "interventions": [
+        {
+          "name": "Survodutide",
+          "type": "COMBINATION_PRODUCT"
+        },
+        {
+          "name": "Placebo",
+          "type": "COMBINATION_PRODUCT"
+        }
+      ]
+    },
+    {
+      "nctId": "NCT05555589",
+      "url": "https://clinicaltrials.gov/study/NCT05555589",
+      "checkedAt": "2026-10-27",
+      "title": "Assessment of the Safety and Efficacy of 0.1% RGN-259 Ophthalmic Solution for the Treatment of NK: SEER-2",
+      "status": "RECRUITING",
+      "lastUpdatePosted": "2025-12-23",
+      "estimatedOrActualCompletion": {
+        "date": "2026-05-30",
+        "type": "ESTIMATED"
+      },
+      "interventions": [
+        {
+          "name": "RGN-259",
+          "type": "DRUG"
+        },
+        {
+          "name": "Placebo",
+          "type": "DRUG"
+        }
+      ]
+    },
+    {
+      "nctId": "NCT04488081",
+      "url": "https://clinicaltrials.gov/study/NCT04488081",
+      "checkedAt": "2026-10-27",
+      "title": "I-SPY COVID-19 TRIAL: An Adaptive Platform Trial for Critically Ill Patients",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "lastUpdatePosted": "2026-03-16",
+      "estimatedOrActualCompletion": {
+        "date": "2030-07-31",
+        "type": "ESTIMATED"
+      },
+      "interventions": [
+        {
+          "name": "Remdesivir",
+          "type": "DRUG"
+        },
+        {
+          "name": "Imatinib Mesylate",
+          "type": "DRUG"
+        },
+        {
+          "name": "Dexamethasone",
+          "type": "DRUG"
+        },
+        {
+          "name": "Cenicriviroc",
+          "type": "DRUG"
+        },
+        {
+          "name": "Icatibant",
+          "type": "DRUG"
+        },
+        {
+          "name": "Apremilast",
+          "type": "DRUG"
+        },
+        {
+          "name": "dornase alfa",
+          "type": "BIOLOGICAL"
+        },
+        {
+          "name": "Celecoxib",
+          "type": "DRUG"
+        },
+        {
+          "name": "Famotidine",
+          "type": "DRUG"
+        },
+        {
+          "name": "IC14",
+          "type": "BIOLOGICAL"
+        },
+        {
+          "name": "Aviptadil",
+          "type": "DRUG"
+        },
+        {
+          "name": "narsoplimab",
+          "type": "BIOLOGICAL"
+        },
+        {
+          "name": "Cyproheptadine",
+          "type": "DRUG"
+        },
+        {
+          "name": "Cyclosporine",
+          "type": "DRUG"
+        }
+      ],
+      "arms": [
+        {
+          "label": "Aviptadil + Standard of Care (CLOSED)",
+          "type": "EXPERIMENTAL",
+          "interventionNames": [
+            "Drug: Remdesivir",
+            "Drug: Dexamethasone",
+            "Drug: Aviptadil"
+          ]
+        }
+      ]
+    },
+    {
+      "nctId": "NCT06981806",
+      "url": "https://clinicaltrials.gov/study/NCT06981806",
+      "checkedAt": "2026-10-27",
+      "title": "Phase I Study of Cosibelimab and Balixafortide in Metastatic Pancreatic Ductal Adenocarcinoma",
+      "status": "NOT_YET_RECRUITING",
+      "lastUpdatePosted": "2025-11-19",
+      "estimatedOrActualCompletion": {
+        "date": "2027-02",
+        "type": "ESTIMATED"
+      },
+      "interventions": [
+        {
+          "name": "Balixafortide",
+          "type": "DRUG"
+        },
+        {
+          "name": "Balixafortide",
+          "type": "DRUG"
+        },
+        {
+          "name": "Cosibelimab",
+          "type": "DRUG"
+        },
+        {
+          "name": "Balixafortide",
+          "type": "DRUG"
+        }
+      ]
+    },
+    {
+      "nctId": "NCT04784897",
+      "url": "https://clinicaltrials.gov/study/NCT04784897",
+      "checkedAt": "2026-10-27",
+      "title": "A Study to Evaluate the Efficacy and Safety of Brilacidin in Hospitalized Participants With COVID-19",
+      "status": "COMPLETED",
+      "lastUpdatePosted": "2022-09-16",
+      "estimatedOrActualCompletion": {
+        "date": "2021-07-30",
+        "type": "ACTUAL"
+      },
+      "interventions": [
+        {
+          "name": "Brilacidin",
+          "type": "DRUG"
+        },
+        {
+          "name": "Placebo",
+          "type": "DRUG"
+        },
+        {
+          "name": "Standard of Care (SoC)",
+          "type": "DRUG"
+        }
+      ]
+    },
+    {
+      "nctId": "NCT01110720",
+      "url": "https://clinicaltrials.gov/study/NCT01110720",
+      "checkedAt": "2026-10-27",
+      "title": "Study to Evaluate the Safety and Efficacy of Davunetide for the Treatment of Progressive Supranuclear Palsy",
+      "status": "COMPLETED",
+      "lastUpdatePosted": "2013-01-17",
+      "estimatedOrActualCompletion": {
+        "date": "2012-12",
+        "type": "ACTUAL"
+      },
+      "interventions": [
+        {
+          "name": "Davunetide",
+          "type": "DRUG"
+        },
+        {
+          "name": "Placebo",
+          "type": "DRUG"
+        }
+      ]
+    },
+    {
+      "nctId": "NCT03569007",
+      "url": "https://clinicaltrials.gov/study/NCT03569007",
+      "checkedAt": "2026-10-27",
+      "title": "Study to Evaluate the Efficacy and Safety of Larazotide Acetate for the Relief of CeD Symptoms",
+      "status": "TERMINATED",
+      "lastUpdatePosted": "2022-07-26",
+      "estimatedOrActualCompletion": {
+        "date": "2022-07-21",
+        "type": "ACTUAL"
+      },
+      "interventions": [
+        {
+          "name": "Larazotide",
+          "type": "DRUG"
+        },
+        {
+          "name": "Matching Placebo",
+          "type": "DRUG"
+        }
+      ]
+    },
+    {
+      "nctId": "NCT03582007",
+      "url": "https://clinicaltrials.gov/study/NCT03582007",
+      "checkedAt": "2026-10-27",
+      "title": "Pivotal Study in Nosocomial Pneumonia Suspected or Confirmed to be Due to Pseudomonas",
+      "status": "TERMINATED",
+      "lastUpdatePosted": "2019-08-28",
+      "estimatedOrActualCompletion": {
+        "date": "2019-07-17",
+        "type": "ACTUAL"
+      },
+      "interventions": [
+        {
+          "name": "Murepavadin",
+          "type": "DRUG"
+        },
+        {
+          "name": "One anti-pseudomonal antibiotic",
+          "type": "DRUG"
+        }
+      ]
+    },
+    {
+      "nctId": "NCT04055909",
+      "url": "https://clinicaltrials.gov/study/NCT04055909",
+      "checkedAt": "2026-10-27",
+      "title": "Efficacy, Safety and Tolerability of Nangibotide in Patients With Septic Shock",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "lastUpdatePosted": "2023-04-11",
+      "estimatedOrActualCompletion": {
+        "date": "2023-05-09",
+        "type": "ESTIMATED"
+      },
+      "interventions": [
+        {
+          "name": "nangibotide low dose",
+          "type": "DRUG"
+        },
+        {
+          "name": "nangibotide high dose",
+          "type": "DRUG"
+        },
+        {
+          "name": "placebo",
+          "type": "DRUG"
+        }
+      ]
+    },
+    {
+      "nctId": "NCT04504383",
+      "url": "https://clinicaltrials.gov/study/NCT04504383",
+      "checkedAt": "2026-10-27",
+      "title": "PN-943 in Adults With Moderate to Severe Active Ulcerative Colitis (UC)",
+      "status": "COMPLETED",
+      "lastUpdatePosted": "2023-04-25",
+      "estimatedOrActualCompletion": {
+        "date": "2023-02-16",
+        "type": "ACTUAL"
+      },
+      "interventions": [
+        {
+          "name": "PN-943",
+          "type": "DRUG"
+        },
+        {
+          "name": "Placebo",
+          "type": "DRUG"
+        }
+      ]
+    }
+  ]
+}

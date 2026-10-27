@@ -1,0 +1,44 @@
+{
+  "name": "peptide-atlas",
+  "version": "1.2.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22.13.0"
+  },
+  "scripts": {
+    "dev": "node --watch --import tsx server/index.ts",
+    "build": "node scripts/build.mjs",
+    "start": "node dist/runtime/server/index.js",
+    "test": "node --import tsx --test --test-isolation=none tests/*.test.ts packages/viewer/*.test.ts",
+    "typecheck": "tsc --noEmit",
+    "catalog:assemble": "node --import tsx scripts/catalog.ts --assemble",
+    "catalog:check": "node --import tsx scripts/catalog.ts --check",
+    "setup": "node dist/runtime/scripts/setup.js",
+    "setup:dev": "node --import tsx scripts/setup.ts",
+    "export": "node dist/runtime/scripts/export.js",
+    "import": "node dist/runtime/scripts/import.js"
+  },
+  "dependencies": {
+    "@electric-sql/pglite": "^0.3.14",
+    "@fastify/cookie": "^11.0.2",
+    "@fastify/static": "^10.1.8",
+    "fastify": "^5.6.2",
+    "pg": "^8.16.3",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "three": "^0.180.0",
+    "zod": "^4.1.12"
+  },
+  "devDependencies": {
+    "@types/node": "^24.10.0",
+    "@types/pg": "^8.15.6",
+    "@types/react": "^19.2.2",
+    "@types/react-dom": "^19.2.2",
+    "@types/three": "^0.180.0",
+    "@vitejs/plugin-react": "^5.0.4",
+    "tsx": "^4.20.6",
+    "typescript": "^5.9.3",
+    "vite": "^7.1.12"
+  }
+}

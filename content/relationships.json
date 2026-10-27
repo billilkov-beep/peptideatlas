@@ -1,0 +1,20 @@
+{
+  "note": "Navigation relationships, not equivalence or treatment recommendations. Each profile explains identity, product and evidence differences.",
+  "groups": [
+    ["Semaglutide", "Tirzepatide", "Liraglutide", "Dulaglutide", "Exenatide", "Lixisenatide", "Albiglutide", "Efpeglenatide"],
+    ["Retatrutide", "Survodutide", "Pemvidutide", "Mazdutide", "Tirzepatide"],
+    ["Cagrilintide", "CagriSema", "Petrelintide", "Amycretin", "Pramlintide", "Semaglutide"],
+    ["Teduglutide", "Apraglutide", "Glepaglutide"],
+    ["Bremelanotide", "Melanotan II", "Afamelanotide", "Setmelanotide"],
+    ["Thymosin beta-4", "TB-500", "BPC-157"],
+    ["CJC-1295", "Sermorelin", "Tesamorelin", "Ipamorelin", "GHRP-2", "GHRP-6", "Hexarelin", "MK-677 (ibutamoren)"],
+    ["Somatropin (rhGH)", "Somapacitan", "Mecasermin", "IGF-1 DES", "IGF-1 LR3", "Mechano growth factor"],
+    ["Parathyroid hormone", "Palopegteriparatide", "Teriparatide", "Abaloparatide", "Calcitonin-salmon", "Etelcalcetide"],
+    ["Octreotide", "Lanreotide", "Pasireotide", "Pegvisomant", "Ga-68 dotatate", "Lutetium Lu-177 dotatate"],
+    ["Goserelin", "Leuprolide", "Triptorelin", "Nafarelin", "Histrelin", "Degarelix", "Cetrorelix", "Ganirelix", "Gonadorelin (compounded)", "Kisspeptin-10"],
+    ["Vasopressin", "Desmopressin", "Terlipressin", "Selepressin", "Oxytocin"],
+    ["Zilucoplan", "Pegcetacoplan", "Ecallantide", "Icatibant"],
+    ["Trofinetide", "NNZ-2591", "Davunetide"],
+    ["AOD-9604", "Fragment 176-191", "5-Amino-1MQ", "MOTS-c", "Humanin"]
+  ]
+}

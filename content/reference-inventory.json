@@ -1,0 +1,1273 @@
+{
+  "schemaVersion": 1,
+  "referenceUrl": "https://superpower.com/guides/peptides",
+  "observedAt": "2026-10-27",
+  "entryCount": 152,
+  "note": "Factual coverage inventory. Observed status labels reproduce the reference classification for audit only; independently verify current product-specific approval and evidence. No reference-site article prose or visual assets are included.",
+  "categories": [
+    {
+      "id": "brain",
+      "referenceLabel": "Brain & sleep",
+      "entryCount": 13
+    },
+    {
+      "id": "skin",
+      "referenceLabel": "Skin & aging",
+      "entryCount": 28
+    },
+    {
+      "id": "digestive",
+      "referenceLabel": "Digestive & weight",
+      "entryCount": 35
+    },
+    {
+      "id": "immune",
+      "referenceLabel": "Immune & defense",
+      "entryCount": 9
+    },
+    {
+      "id": "hormones",
+      "referenceLabel": "Hormones & metabolism",
+      "entryCount": 19
+    },
+    {
+      "id": "musculoskeletal",
+      "referenceLabel": "Bones & muscles",
+      "entryCount": 21
+    },
+    {
+      "id": "cardiovascular",
+      "referenceLabel": "Heart & blood",
+      "entryCount": 14
+    },
+    {
+      "id": "reproductive",
+      "referenceLabel": "Sexual & reproductive",
+      "entryCount": 13
+    }
+  ],
+  "statusCounts": {
+    "FDA-approved": 73,
+    "In clinical trials": 26,
+    "Not FDA-approved": 37,
+    "Cosmetic and topical": 16
+  },
+  "entries": [
+    {
+      "referenceName": "Bremelanotide",
+      "referenceSlug": "bremelanotide",
+      "category": "brain",
+      "referenceCategory": "Brain & sleep",
+      "observedStatus": "FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/bremelanotide"
+    },
+    {
+      "referenceName": "Trofinetide",
+      "referenceSlug": "trofinetide",
+      "category": "brain",
+      "referenceCategory": "Brain & sleep",
+      "observedStatus": "FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/trofinetide"
+    },
+    {
+      "referenceName": "Ziconotide",
+      "referenceSlug": "ziconotide",
+      "category": "brain",
+      "referenceCategory": "Brain & sleep",
+      "observedStatus": "FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/ziconotide"
+    },
+    {
+      "referenceName": "Davunetide",
+      "referenceSlug": "davunetide",
+      "category": "brain",
+      "referenceCategory": "Brain & sleep",
+      "observedStatus": "In clinical trials",
+      "referenceUrl": "https://superpower.com/guides/peptides/davunetide"
+    },
+    {
+      "referenceName": "NNZ-2591",
+      "referenceSlug": "nnz-2591",
+      "category": "brain",
+      "referenceCategory": "Brain & sleep",
+      "observedStatus": "In clinical trials",
+      "referenceUrl": "https://superpower.com/guides/peptides/nnz-2591"
+    },
+    {
+      "referenceName": "Trofinetide (predecessor programs)",
+      "referenceSlug": "trofinetide-predecessor-programs",
+      "category": "brain",
+      "referenceCategory": "Brain & sleep",
+      "observedStatus": "In clinical trials",
+      "referenceUrl": "https://superpower.com/guides/peptides/trofinetide-predecessor-programs"
+    },
+    {
+      "referenceName": "Epitalon",
+      "referenceSlug": "epitalon",
+      "category": "brain",
+      "referenceCategory": "Brain & sleep",
+      "observedStatus": "Not FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/epitalon"
+    },
+    {
+      "referenceName": "Semax",
+      "referenceSlug": "semax",
+      "category": "brain",
+      "referenceCategory": "Brain & sleep",
+      "observedStatus": "Not FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/semax"
+    },
+    {
+      "referenceName": "Selank",
+      "referenceSlug": "selank",
+      "category": "brain",
+      "referenceCategory": "Brain & sleep",
+      "observedStatus": "Not FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/selank"
+    },
+    {
+      "referenceName": "PT-141",
+      "referenceSlug": "pt-141",
+      "category": "brain",
+      "referenceCategory": "Brain & sleep",
+      "observedStatus": "Not FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/pt-141"
+    },
+    {
+      "referenceName": "DSIP",
+      "referenceSlug": "dsip",
+      "category": "brain",
+      "referenceCategory": "Brain & sleep",
+      "observedStatus": "Not FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/dsip"
+    },
+    {
+      "referenceName": "Dihexa",
+      "referenceSlug": "dihexa",
+      "category": "brain",
+      "referenceCategory": "Brain & sleep",
+      "observedStatus": "Not FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/dihexa"
+    },
+    {
+      "referenceName": "Cerebrolysin",
+      "referenceSlug": "cerebrolysin",
+      "category": "brain",
+      "referenceCategory": "Brain & sleep",
+      "observedStatus": "Not FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/cerebrolysin"
+    },
+    {
+      "referenceName": "Afamelanotide",
+      "referenceSlug": "afamelanotide",
+      "category": "skin",
+      "referenceCategory": "Skin & aging",
+      "observedStatus": "FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/afamelanotide"
+    },
+    {
+      "referenceName": "Bacitracin",
+      "referenceSlug": "bacitracin",
+      "category": "skin",
+      "referenceCategory": "Skin & aging",
+      "observedStatus": "FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/bacitracin"
+    },
+    {
+      "referenceName": "Dalbavancin / Oritavancin / Telavancin",
+      "referenceSlug": "dalbavancin-oritavancin-telavancin",
+      "category": "skin",
+      "referenceCategory": "Skin & aging",
+      "observedStatus": "FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/dalbavancin-oritavancin-telavancin"
+    },
+    {
+      "referenceName": "Daptomycin",
+      "referenceSlug": "daptomycin",
+      "category": "skin",
+      "referenceCategory": "Skin & aging",
+      "observedStatus": "FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/daptomycin"
+    },
+    {
+      "referenceName": "Difelikefalin",
+      "referenceSlug": "difelikefalin",
+      "category": "skin",
+      "referenceCategory": "Skin & aging",
+      "observedStatus": "FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/difelikefalin"
+    },
+    {
+      "referenceName": "Ecallantide",
+      "referenceSlug": "ecallantide",
+      "category": "skin",
+      "referenceCategory": "Skin & aging",
+      "observedStatus": "FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/ecallantide"
+    },
+    {
+      "referenceName": "Icatibant",
+      "referenceSlug": "icatibant",
+      "category": "skin",
+      "referenceCategory": "Skin & aging",
+      "observedStatus": "FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/icatibant"
+    },
+    {
+      "referenceName": "LTX-315",
+      "referenceSlug": "ltx-315",
+      "category": "skin",
+      "referenceCategory": "Skin & aging",
+      "observedStatus": "In clinical trials",
+      "referenceUrl": "https://superpower.com/guides/peptides/ltx-315"
+    },
+    {
+      "referenceName": "GHK-Cu",
+      "referenceSlug": "ghk-cu",
+      "category": "skin",
+      "referenceCategory": "Skin & aging",
+      "observedStatus": "Not FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/ghk-cu"
+    },
+    {
+      "referenceName": "Melanotan II",
+      "referenceSlug": "melanotan-ii",
+      "category": "skin",
+      "referenceCategory": "Skin & aging",
+      "observedStatus": "Not FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/melanotan-ii"
+    },
+    {
+      "referenceName": "Glutathione",
+      "referenceSlug": "glutathione",
+      "category": "skin",
+      "referenceCategory": "Skin & aging",
+      "observedStatus": "Not FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/glutathione"
+    },
+    {
+      "referenceName": "Melanotan I",
+      "referenceSlug": "melanotan-i",
+      "category": "skin",
+      "referenceCategory": "Skin & aging",
+      "observedStatus": "Not FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/melanotan-i"
+    },
+    {
+      "referenceName": "Acetyl hexapeptide-8",
+      "referenceSlug": "acetyl-hexapeptide-8",
+      "category": "skin",
+      "referenceCategory": "Skin & aging",
+      "observedStatus": "Cosmetic and topical",
+      "referenceUrl": "https://superpower.com/guides/peptides/acetyl-hexapeptide-8"
+    },
+    {
+      "referenceName": "Palmitoyl pentapeptide-4",
+      "referenceSlug": "palmitoyl-pentapeptide-4",
+      "category": "skin",
+      "referenceCategory": "Skin & aging",
+      "observedStatus": "Cosmetic and topical",
+      "referenceUrl": "https://superpower.com/guides/peptides/palmitoyl-pentapeptide-4"
+    },
+    {
+      "referenceName": "Copper tripeptide-1",
+      "referenceSlug": "copper-tripeptide-1",
+      "category": "skin",
+      "referenceCategory": "Skin & aging",
+      "observedStatus": "Cosmetic and topical",
+      "referenceUrl": "https://superpower.com/guides/peptides/copper-tripeptide-1"
+    },
+    {
+      "referenceName": "Acetyl octapeptide-3",
+      "referenceSlug": "acetyl-octapeptide-3",
+      "category": "skin",
+      "referenceCategory": "Skin & aging",
+      "observedStatus": "Cosmetic and topical",
+      "referenceUrl": "https://superpower.com/guides/peptides/acetyl-octapeptide-3"
+    },
+    {
+      "referenceName": "Acetyl tetrapeptide-5",
+      "referenceSlug": "acetyl-tetrapeptide-5",
+      "category": "skin",
+      "referenceCategory": "Skin & aging",
+      "observedStatus": "Cosmetic and topical",
+      "referenceUrl": "https://superpower.com/guides/peptides/acetyl-tetrapeptide-5"
+    },
+    {
+      "referenceName": "Carnosine",
+      "referenceSlug": "carnosine",
+      "category": "skin",
+      "referenceCategory": "Skin & aging",
+      "observedStatus": "Cosmetic and topical",
+      "referenceUrl": "https://superpower.com/guides/peptides/carnosine"
+    },
+    {
+      "referenceName": "Dipeptide diaminobutyroyl benzylamide diacetate",
+      "referenceSlug": "dipeptide-diaminobutyroyl-benzylamide-diacetate",
+      "category": "skin",
+      "referenceCategory": "Skin & aging",
+      "observedStatus": "Cosmetic and topical",
+      "referenceUrl": "https://superpower.com/guides/peptides/dipeptide-diaminobutyroyl-benzylamide-diacetate"
+    },
+    {
+      "referenceName": "Hexapeptide-9",
+      "referenceSlug": "hexapeptide-9",
+      "category": "skin",
+      "referenceCategory": "Skin & aging",
+      "observedStatus": "Cosmetic and topical",
+      "referenceUrl": "https://superpower.com/guides/peptides/hexapeptide-9"
+    },
+    {
+      "referenceName": "Nonapeptide-1",
+      "referenceSlug": "nonapeptide-1",
+      "category": "skin",
+      "referenceCategory": "Skin & aging",
+      "observedStatus": "Cosmetic and topical",
+      "referenceUrl": "https://superpower.com/guides/peptides/nonapeptide-1"
+    },
+    {
+      "referenceName": "Oligopeptide-1",
+      "referenceSlug": "oligopeptide-1",
+      "category": "skin",
+      "referenceCategory": "Skin & aging",
+      "observedStatus": "Cosmetic and topical",
+      "referenceUrl": "https://superpower.com/guides/peptides/oligopeptide-1"
+    },
+    {
+      "referenceName": "Palmitoyl hexapeptide-12",
+      "referenceSlug": "palmitoyl-hexapeptide-12",
+      "category": "skin",
+      "referenceCategory": "Skin & aging",
+      "observedStatus": "Cosmetic and topical",
+      "referenceUrl": "https://superpower.com/guides/peptides/palmitoyl-hexapeptide-12"
+    },
+    {
+      "referenceName": "Palmitoyl tetrapeptide-7",
+      "referenceSlug": "palmitoyl-tetrapeptide-7",
+      "category": "skin",
+      "referenceCategory": "Skin & aging",
+      "observedStatus": "Cosmetic and topical",
+      "referenceUrl": "https://superpower.com/guides/peptides/palmitoyl-tetrapeptide-7"
+    },
+    {
+      "referenceName": "Palmitoyl tripeptide-1",
+      "referenceSlug": "palmitoyl-tripeptide-1",
+      "category": "skin",
+      "referenceCategory": "Skin & aging",
+      "observedStatus": "Cosmetic and topical",
+      "referenceUrl": "https://superpower.com/guides/peptides/palmitoyl-tripeptide-1"
+    },
+    {
+      "referenceName": "Palmitoyl tripeptide-38",
+      "referenceSlug": "palmitoyl-tripeptide-38",
+      "category": "skin",
+      "referenceCategory": "Skin & aging",
+      "observedStatus": "Cosmetic and topical",
+      "referenceUrl": "https://superpower.com/guides/peptides/palmitoyl-tripeptide-38"
+    },
+    {
+      "referenceName": "Pentapeptide-18",
+      "referenceSlug": "pentapeptide-18",
+      "category": "skin",
+      "referenceCategory": "Skin & aging",
+      "observedStatus": "Cosmetic and topical",
+      "referenceUrl": "https://superpower.com/guides/peptides/pentapeptide-18"
+    },
+    {
+      "referenceName": "Tripeptide-10 citrulline",
+      "referenceSlug": "tripeptide-10-citrulline",
+      "category": "skin",
+      "referenceCategory": "Skin & aging",
+      "observedStatus": "Cosmetic and topical",
+      "referenceUrl": "https://superpower.com/guides/peptides/tripeptide-10-citrulline"
+    },
+    {
+      "referenceName": "Semaglutide",
+      "referenceSlug": "semaglutide",
+      "category": "digestive",
+      "referenceCategory": "Digestive & weight",
+      "observedStatus": "FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/semaglutide"
+    },
+    {
+      "referenceName": "Tirzepatide",
+      "referenceSlug": "tirzepatide",
+      "category": "digestive",
+      "referenceCategory": "Digestive & weight",
+      "observedStatus": "FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/tirzepatide"
+    },
+    {
+      "referenceName": "Dasiglucagon",
+      "referenceSlug": "dasiglucagon",
+      "category": "digestive",
+      "referenceCategory": "Digestive & weight",
+      "observedStatus": "FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/dasiglucagon"
+    },
+    {
+      "referenceName": "Ga-68 dotatate",
+      "referenceSlug": "ga-68-dotatate",
+      "category": "digestive",
+      "referenceCategory": "Digestive & weight",
+      "observedStatus": "FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/ga-68-dotatate"
+    },
+    {
+      "referenceName": "Glucagon",
+      "referenceSlug": "glucagon",
+      "category": "digestive",
+      "referenceCategory": "Digestive & weight",
+      "observedStatus": "FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/glucagon"
+    },
+    {
+      "referenceName": "Lanreotide",
+      "referenceSlug": "lanreotide",
+      "category": "digestive",
+      "referenceCategory": "Digestive & weight",
+      "observedStatus": "FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/lanreotide"
+    },
+    {
+      "referenceName": "Linaclotide",
+      "referenceSlug": "linaclotide",
+      "category": "digestive",
+      "referenceCategory": "Digestive & weight",
+      "observedStatus": "FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/linaclotide"
+    },
+    {
+      "referenceName": "Liraglutide",
+      "referenceSlug": "liraglutide",
+      "category": "digestive",
+      "referenceCategory": "Digestive & weight",
+      "observedStatus": "FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/liraglutide"
+    },
+    {
+      "referenceName": "Lutetium Lu-177 dotatate",
+      "referenceSlug": "lutetium-lu-177-dotatate",
+      "category": "digestive",
+      "referenceCategory": "Digestive & weight",
+      "observedStatus": "FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/lutetium-lu-177-dotatate"
+    },
+    {
+      "referenceName": "Octreotide",
+      "referenceSlug": "octreotide",
+      "category": "digestive",
+      "referenceCategory": "Digestive & weight",
+      "observedStatus": "FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/octreotide"
+    },
+    {
+      "referenceName": "Plecanatide",
+      "referenceSlug": "plecanatide",
+      "category": "digestive",
+      "referenceCategory": "Digestive & weight",
+      "observedStatus": "FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/plecanatide"
+    },
+    {
+      "referenceName": "Setmelanotide",
+      "referenceSlug": "setmelanotide",
+      "category": "digestive",
+      "referenceCategory": "Digestive & weight",
+      "observedStatus": "FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/setmelanotide"
+    },
+    {
+      "referenceName": "Sincalide",
+      "referenceSlug": "sincalide",
+      "category": "digestive",
+      "referenceCategory": "Digestive & weight",
+      "observedStatus": "FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/sincalide"
+    },
+    {
+      "referenceName": "Teduglutide",
+      "referenceSlug": "teduglutide",
+      "category": "digestive",
+      "referenceCategory": "Digestive & weight",
+      "observedStatus": "FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/teduglutide"
+    },
+    {
+      "referenceName": "Terlipressin",
+      "referenceSlug": "terlipressin",
+      "category": "digestive",
+      "referenceCategory": "Digestive & weight",
+      "observedStatus": "FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/terlipressin"
+    },
+    {
+      "referenceName": "Tesamorelin",
+      "referenceSlug": "tesamorelin",
+      "category": "digestive",
+      "referenceCategory": "Digestive & weight",
+      "observedStatus": "FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/tesamorelin"
+    },
+    {
+      "referenceName": "Retatrutide",
+      "referenceSlug": "retatrutide",
+      "category": "digestive",
+      "referenceCategory": "Digestive & weight",
+      "observedStatus": "In clinical trials",
+      "referenceUrl": "https://superpower.com/guides/peptides/retatrutide"
+    },
+    {
+      "referenceName": "Cagrilintide",
+      "referenceSlug": "cagrilintide",
+      "category": "digestive",
+      "referenceCategory": "Digestive & weight",
+      "observedStatus": "In clinical trials",
+      "referenceUrl": "https://superpower.com/guides/peptides/cagrilintide"
+    },
+    {
+      "referenceName": "Amycretin",
+      "referenceSlug": "amycretin",
+      "category": "digestive",
+      "referenceCategory": "Digestive & weight",
+      "observedStatus": "In clinical trials",
+      "referenceUrl": "https://superpower.com/guides/peptides/amycretin"
+    },
+    {
+      "referenceName": "Apraglutide",
+      "referenceSlug": "apraglutide",
+      "category": "digestive",
+      "referenceCategory": "Digestive & weight",
+      "observedStatus": "In clinical trials",
+      "referenceUrl": "https://superpower.com/guides/peptides/apraglutide"
+    },
+    {
+      "referenceName": "Brilacidin",
+      "referenceSlug": "brilacidin",
+      "category": "digestive",
+      "referenceCategory": "Digestive & weight",
+      "observedStatus": "In clinical trials",
+      "referenceUrl": "https://superpower.com/guides/peptides/brilacidin"
+    },
+    {
+      "referenceName": "CagriSema",
+      "referenceSlug": "cagrisema",
+      "category": "digestive",
+      "referenceCategory": "Digestive & weight",
+      "observedStatus": "In clinical trials",
+      "referenceUrl": "https://superpower.com/guides/peptides/cagrisema"
+    },
+    {
+      "referenceName": "Enlicitide",
+      "referenceSlug": "enlicitide",
+      "category": "digestive",
+      "referenceCategory": "Digestive & weight",
+      "observedStatus": "In clinical trials",
+      "referenceUrl": "https://superpower.com/guides/peptides/enlicitide"
+    },
+    {
+      "referenceName": "Glepaglutide",
+      "referenceSlug": "glepaglutide",
+      "category": "digestive",
+      "referenceCategory": "Digestive & weight",
+      "observedStatus": "In clinical trials",
+      "referenceUrl": "https://superpower.com/guides/peptides/glepaglutide"
+    },
+    {
+      "referenceName": "Larazotide acetate",
+      "referenceSlug": "larazotide-acetate",
+      "category": "digestive",
+      "referenceCategory": "Digestive & weight",
+      "observedStatus": "In clinical trials",
+      "referenceUrl": "https://superpower.com/guides/peptides/larazotide-acetate"
+    },
+    {
+      "referenceName": "Mazdutide",
+      "referenceSlug": "mazdutide",
+      "category": "digestive",
+      "referenceCategory": "Digestive & weight",
+      "observedStatus": "In clinical trials",
+      "referenceUrl": "https://superpower.com/guides/peptides/mazdutide"
+    },
+    {
+      "referenceName": "Pemvidutide",
+      "referenceSlug": "pemvidutide",
+      "category": "digestive",
+      "referenceCategory": "Digestive & weight",
+      "observedStatus": "In clinical trials",
+      "referenceUrl": "https://superpower.com/guides/peptides/pemvidutide"
+    },
+    {
+      "referenceName": "Petrelintide",
+      "referenceSlug": "petrelintide",
+      "category": "digestive",
+      "referenceCategory": "Digestive & weight",
+      "observedStatus": "In clinical trials",
+      "referenceUrl": "https://superpower.com/guides/peptides/petrelintide"
+    },
+    {
+      "referenceName": "PN-943",
+      "referenceSlug": "pn-943",
+      "category": "digestive",
+      "referenceCategory": "Digestive & weight",
+      "observedStatus": "In clinical trials",
+      "referenceUrl": "https://superpower.com/guides/peptides/pn-943"
+    },
+    {
+      "referenceName": "Survodutide",
+      "referenceSlug": "survodutide",
+      "category": "digestive",
+      "referenceCategory": "Digestive & weight",
+      "observedStatus": "In clinical trials",
+      "referenceUrl": "https://superpower.com/guides/peptides/survodutide"
+    },
+    {
+      "referenceName": "BPC-157",
+      "referenceSlug": "bpc-157",
+      "category": "digestive",
+      "referenceCategory": "Digestive & weight",
+      "observedStatus": "Not FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/bpc-157"
+    },
+    {
+      "referenceName": "KPV",
+      "referenceSlug": "kpv",
+      "category": "digestive",
+      "referenceCategory": "Digestive & weight",
+      "observedStatus": "Not FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/kpv"
+    },
+    {
+      "referenceName": "AOD-9604",
+      "referenceSlug": "aod-9604",
+      "category": "digestive",
+      "referenceCategory": "Digestive & weight",
+      "observedStatus": "Not FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/aod-9604"
+    },
+    {
+      "referenceName": "5-Amino-1MQ",
+      "referenceSlug": "5-amino-1mq",
+      "category": "digestive",
+      "referenceCategory": "Digestive & weight",
+      "observedStatus": "Not FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/5-amino-1mq"
+    },
+    {
+      "referenceName": "Fragment 176-191",
+      "referenceSlug": "fragment-176-191",
+      "category": "digestive",
+      "referenceCategory": "Digestive & weight",
+      "observedStatus": "Not FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/fragment-176-191"
+    },
+    {
+      "referenceName": "Cyclosporine",
+      "referenceSlug": "cyclosporine",
+      "category": "immune",
+      "referenceCategory": "Immune & defense",
+      "observedStatus": "FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/cyclosporine"
+    },
+    {
+      "referenceName": "Enfuvirtide",
+      "referenceSlug": "enfuvirtide",
+      "category": "immune",
+      "referenceCategory": "Immune & defense",
+      "observedStatus": "FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/enfuvirtide"
+    },
+    {
+      "referenceName": "Polymyxin B / Colistin",
+      "referenceSlug": "polymyxin-b-colistin",
+      "category": "immune",
+      "referenceCategory": "Immune & defense",
+      "observedStatus": "FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/polymyxin-b-colistin"
+    },
+    {
+      "referenceName": "Aviptadil",
+      "referenceSlug": "aviptadil",
+      "category": "immune",
+      "referenceCategory": "Immune & defense",
+      "observedStatus": "In clinical trials",
+      "referenceUrl": "https://superpower.com/guides/peptides/aviptadil"
+    },
+    {
+      "referenceName": "Murepavadin",
+      "referenceSlug": "murepavadin",
+      "category": "immune",
+      "referenceCategory": "Immune & defense",
+      "observedStatus": "In clinical trials",
+      "referenceUrl": "https://superpower.com/guides/peptides/murepavadin"
+    },
+    {
+      "referenceName": "Nangibotide",
+      "referenceSlug": "nangibotide",
+      "category": "immune",
+      "referenceCategory": "Immune & defense",
+      "observedStatus": "In clinical trials",
+      "referenceUrl": "https://superpower.com/guides/peptides/nangibotide"
+    },
+    {
+      "referenceName": "Thymosin alpha-1",
+      "referenceSlug": "thymosin-alpha-1",
+      "category": "immune",
+      "referenceCategory": "Immune & defense",
+      "observedStatus": "Not FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/thymosin-alpha-1"
+    },
+    {
+      "referenceName": "LL-37",
+      "referenceSlug": "ll-37",
+      "category": "immune",
+      "referenceCategory": "Immune & defense",
+      "observedStatus": "Not FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/ll-37"
+    },
+    {
+      "referenceName": "Thymulin",
+      "referenceSlug": "thymulin",
+      "category": "immune",
+      "referenceCategory": "Immune & defense",
+      "observedStatus": "Not FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/thymulin"
+    },
+    {
+      "referenceName": "Albiglutide",
+      "referenceSlug": "albiglutide",
+      "category": "hormones",
+      "referenceCategory": "Hormones & metabolism",
+      "observedStatus": "FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/albiglutide"
+    },
+    {
+      "referenceName": "Corticotropin",
+      "referenceSlug": "corticotropin",
+      "category": "hormones",
+      "referenceCategory": "Hormones & metabolism",
+      "observedStatus": "FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/corticotropin"
+    },
+    {
+      "referenceName": "Cosyntropin",
+      "referenceSlug": "cosyntropin",
+      "category": "hormones",
+      "referenceCategory": "Hormones & metabolism",
+      "observedStatus": "FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/cosyntropin"
+    },
+    {
+      "referenceName": "Dulaglutide",
+      "referenceSlug": "dulaglutide",
+      "category": "hormones",
+      "referenceCategory": "Hormones & metabolism",
+      "observedStatus": "FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/dulaglutide"
+    },
+    {
+      "referenceName": "Exenatide",
+      "referenceSlug": "exenatide",
+      "category": "hormones",
+      "referenceCategory": "Hormones & metabolism",
+      "observedStatus": "FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/exenatide"
+    },
+    {
+      "referenceName": "Insulin analogs (multiple)",
+      "referenceSlug": "insulin-analogs-multiple",
+      "category": "hormones",
+      "referenceCategory": "Hormones & metabolism",
+      "observedStatus": "FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/insulin-analogs-multiple"
+    },
+    {
+      "referenceName": "Lixisenatide",
+      "referenceSlug": "lixisenatide",
+      "category": "hormones",
+      "referenceCategory": "Hormones & metabolism",
+      "observedStatus": "FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/lixisenatide"
+    },
+    {
+      "referenceName": "Mecasermin",
+      "referenceSlug": "mecasermin",
+      "category": "hormones",
+      "referenceCategory": "Hormones & metabolism",
+      "observedStatus": "FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/mecasermin"
+    },
+    {
+      "referenceName": "Pasireotide",
+      "referenceSlug": "pasireotide",
+      "category": "hormones",
+      "referenceCategory": "Hormones & metabolism",
+      "observedStatus": "FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/pasireotide"
+    },
+    {
+      "referenceName": "Pegvisomant",
+      "referenceSlug": "pegvisomant",
+      "category": "hormones",
+      "referenceCategory": "Hormones & metabolism",
+      "observedStatus": "FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/pegvisomant"
+    },
+    {
+      "referenceName": "Pramlintide",
+      "referenceSlug": "pramlintide",
+      "category": "hormones",
+      "referenceCategory": "Hormones & metabolism",
+      "observedStatus": "FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/pramlintide"
+    },
+    {
+      "referenceName": "Secretin",
+      "referenceSlug": "secretin",
+      "category": "hormones",
+      "referenceCategory": "Hormones & metabolism",
+      "observedStatus": "FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/secretin"
+    },
+    {
+      "referenceName": "Somapacitan",
+      "referenceSlug": "somapacitan",
+      "category": "hormones",
+      "referenceCategory": "Hormones & metabolism",
+      "observedStatus": "FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/somapacitan"
+    },
+    {
+      "referenceName": "Somatropin (rhGH)",
+      "referenceSlug": "somatropin-rhgh",
+      "category": "hormones",
+      "referenceCategory": "Hormones & metabolism",
+      "observedStatus": "FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/somatropin-rhgh"
+    },
+    {
+      "referenceName": "Efpeglenatide",
+      "referenceSlug": "efpeglenatide",
+      "category": "hormones",
+      "referenceCategory": "Hormones & metabolism",
+      "observedStatus": "In clinical trials",
+      "referenceUrl": "https://superpower.com/guides/peptides/efpeglenatide"
+    },
+    {
+      "referenceName": "Elamipretide",
+      "referenceSlug": "elamipretide",
+      "category": "hormones",
+      "referenceCategory": "Hormones & metabolism",
+      "observedStatus": "In clinical trials",
+      "referenceUrl": "https://superpower.com/guides/peptides/elamipretide"
+    },
+    {
+      "referenceName": "MOTS-c",
+      "referenceSlug": "mots-c",
+      "category": "hormones",
+      "referenceCategory": "Hormones & metabolism",
+      "observedStatus": "Not FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/mots-c"
+    },
+    {
+      "referenceName": "Tesamorelin (off-label)",
+      "referenceSlug": "compounded-tesamorelin",
+      "category": "hormones",
+      "referenceCategory": "Hormones & metabolism",
+      "observedStatus": "Not FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/compounded-tesamorelin"
+    },
+    {
+      "referenceName": "Humanin",
+      "referenceSlug": "humanin",
+      "category": "hormones",
+      "referenceCategory": "Hormones & metabolism",
+      "observedStatus": "Not FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/humanin"
+    },
+    {
+      "referenceName": "Abaloparatide",
+      "referenceSlug": "abaloparatide",
+      "category": "musculoskeletal",
+      "referenceCategory": "Bones & muscles",
+      "observedStatus": "FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/abaloparatide"
+    },
+    {
+      "referenceName": "Calcitonin-salmon",
+      "referenceSlug": "calcitonin-salmon",
+      "category": "musculoskeletal",
+      "referenceCategory": "Bones & muscles",
+      "observedStatus": "FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/calcitonin-salmon"
+    },
+    {
+      "referenceName": "Etelcalcetide",
+      "referenceSlug": "etelcalcetide",
+      "category": "musculoskeletal",
+      "referenceCategory": "Bones & muscles",
+      "observedStatus": "FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/etelcalcetide"
+    },
+    {
+      "referenceName": "Palopegteriparatide",
+      "referenceSlug": "palopegteriparatide",
+      "category": "musculoskeletal",
+      "referenceCategory": "Bones & muscles",
+      "observedStatus": "FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/palopegteriparatide"
+    },
+    {
+      "referenceName": "Parathyroid hormone",
+      "referenceSlug": "parathyroid-hormone",
+      "category": "musculoskeletal",
+      "referenceCategory": "Bones & muscles",
+      "observedStatus": "FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/parathyroid-hormone"
+    },
+    {
+      "referenceName": "Teriparatide",
+      "referenceSlug": "teriparatide",
+      "category": "musculoskeletal",
+      "referenceCategory": "Bones & muscles",
+      "observedStatus": "FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/teriparatide"
+    },
+    {
+      "referenceName": "Vosoritide",
+      "referenceSlug": "vosoritide",
+      "category": "musculoskeletal",
+      "referenceCategory": "Bones & muscles",
+      "observedStatus": "FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/vosoritide"
+    },
+    {
+      "referenceName": "Zilucoplan",
+      "referenceSlug": "zilucoplan",
+      "category": "musculoskeletal",
+      "referenceCategory": "Bones & muscles",
+      "observedStatus": "FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/zilucoplan"
+    },
+    {
+      "referenceName": "TB-500",
+      "referenceSlug": "tb-500",
+      "category": "musculoskeletal",
+      "referenceCategory": "Bones & muscles",
+      "observedStatus": "Not FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/tb-500"
+    },
+    {
+      "referenceName": "CJC-1295",
+      "referenceSlug": "cjc-1295",
+      "category": "musculoskeletal",
+      "referenceCategory": "Bones & muscles",
+      "observedStatus": "Not FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/cjc-1295"
+    },
+    {
+      "referenceName": "Ipamorelin",
+      "referenceSlug": "ipamorelin",
+      "category": "musculoskeletal",
+      "referenceCategory": "Bones & muscles",
+      "observedStatus": "Not FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/ipamorelin"
+    },
+    {
+      "referenceName": "Sermorelin",
+      "referenceSlug": "sermorelin",
+      "category": "musculoskeletal",
+      "referenceCategory": "Bones & muscles",
+      "observedStatus": "Not FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/sermorelin"
+    },
+    {
+      "referenceName": "MK-677 (ibutamoren)",
+      "referenceSlug": "mk-677-ibutamoren",
+      "category": "musculoskeletal",
+      "referenceCategory": "Bones & muscles",
+      "observedStatus": "Not FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/mk-677-ibutamoren"
+    },
+    {
+      "referenceName": "Thymosin beta-4",
+      "referenceSlug": "thymosin-beta-4",
+      "category": "musculoskeletal",
+      "referenceCategory": "Bones & muscles",
+      "observedStatus": "Not FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/thymosin-beta-4"
+    },
+    {
+      "referenceName": "Follistatin-344",
+      "referenceSlug": "follistatin-344",
+      "category": "musculoskeletal",
+      "referenceCategory": "Bones & muscles",
+      "observedStatus": "Not FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/follistatin-344"
+    },
+    {
+      "referenceName": "GHRP-2",
+      "referenceSlug": "ghrp-2",
+      "category": "musculoskeletal",
+      "referenceCategory": "Bones & muscles",
+      "observedStatus": "Not FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/ghrp-2"
+    },
+    {
+      "referenceName": "GHRP-6",
+      "referenceSlug": "ghrp-6",
+      "category": "musculoskeletal",
+      "referenceCategory": "Bones & muscles",
+      "observedStatus": "Not FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/ghrp-6"
+    },
+    {
+      "referenceName": "Hexarelin",
+      "referenceSlug": "hexarelin",
+      "category": "musculoskeletal",
+      "referenceCategory": "Bones & muscles",
+      "observedStatus": "Not FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/hexarelin"
+    },
+    {
+      "referenceName": "IGF-1 DES",
+      "referenceSlug": "igf-1-des",
+      "category": "musculoskeletal",
+      "referenceCategory": "Bones & muscles",
+      "observedStatus": "Not FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/igf-1-des"
+    },
+    {
+      "referenceName": "IGF-1 LR3",
+      "referenceSlug": "igf-1-lr3",
+      "category": "musculoskeletal",
+      "referenceCategory": "Bones & muscles",
+      "observedStatus": "Not FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/igf-1-lr3"
+    },
+    {
+      "referenceName": "Mechano growth factor",
+      "referenceSlug": "mechano-growth-factor",
+      "category": "musculoskeletal",
+      "referenceCategory": "Bones & muscles",
+      "observedStatus": "Not FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/mechano-growth-factor"
+    },
+    {
+      "referenceName": "Angiotensin II",
+      "referenceSlug": "angiotensin-ii",
+      "category": "cardiovascular",
+      "referenceCategory": "Heart & blood",
+      "observedStatus": "FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/angiotensin-ii"
+    },
+    {
+      "referenceName": "Bivalirudin",
+      "referenceSlug": "bivalirudin",
+      "category": "cardiovascular",
+      "referenceCategory": "Heart & blood",
+      "observedStatus": "FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/bivalirudin"
+    },
+    {
+      "referenceName": "Desirudin",
+      "referenceSlug": "desirudin",
+      "category": "cardiovascular",
+      "referenceCategory": "Heart & blood",
+      "observedStatus": "FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/desirudin"
+    },
+    {
+      "referenceName": "Desmopressin",
+      "referenceSlug": "desmopressin",
+      "category": "cardiovascular",
+      "referenceCategory": "Heart & blood",
+      "observedStatus": "FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/desmopressin"
+    },
+    {
+      "referenceName": "Echinocandins",
+      "referenceSlug": "echinocandins",
+      "category": "cardiovascular",
+      "referenceCategory": "Heart & blood",
+      "observedStatus": "FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/echinocandins"
+    },
+    {
+      "referenceName": "Eptifibatide",
+      "referenceSlug": "eptifibatide",
+      "category": "cardiovascular",
+      "referenceCategory": "Heart & blood",
+      "observedStatus": "FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/eptifibatide"
+    },
+    {
+      "referenceName": "Motixafortide",
+      "referenceSlug": "motixafortide",
+      "category": "cardiovascular",
+      "referenceCategory": "Heart & blood",
+      "observedStatus": "FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/motixafortide"
+    },
+    {
+      "referenceName": "Nesiritide",
+      "referenceSlug": "nesiritide",
+      "category": "cardiovascular",
+      "referenceCategory": "Heart & blood",
+      "observedStatus": "FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/nesiritide"
+    },
+    {
+      "referenceName": "Pegcetacoplan",
+      "referenceSlug": "pegcetacoplan",
+      "category": "cardiovascular",
+      "referenceCategory": "Heart & blood",
+      "observedStatus": "FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/pegcetacoplan"
+    },
+    {
+      "referenceName": "Vancomycin",
+      "referenceSlug": "vancomycin",
+      "category": "cardiovascular",
+      "referenceCategory": "Heart & blood",
+      "observedStatus": "FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/vancomycin"
+    },
+    {
+      "referenceName": "Vasopressin",
+      "referenceSlug": "vasopressin",
+      "category": "cardiovascular",
+      "referenceCategory": "Heart & blood",
+      "observedStatus": "FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/vasopressin"
+    },
+    {
+      "referenceName": "Balixafortide",
+      "referenceSlug": "balixafortide",
+      "category": "cardiovascular",
+      "referenceCategory": "Heart & blood",
+      "observedStatus": "In clinical trials",
+      "referenceUrl": "https://superpower.com/guides/peptides/balixafortide"
+    },
+    {
+      "referenceName": "Rusfertide",
+      "referenceSlug": "rusfertide",
+      "category": "cardiovascular",
+      "referenceCategory": "Heart & blood",
+      "observedStatus": "In clinical trials",
+      "referenceUrl": "https://superpower.com/guides/peptides/rusfertide"
+    },
+    {
+      "referenceName": "Selepressin",
+      "referenceSlug": "selepressin",
+      "category": "cardiovascular",
+      "referenceCategory": "Heart & blood",
+      "observedStatus": "In clinical trials",
+      "referenceUrl": "https://superpower.com/guides/peptides/selepressin"
+    },
+    {
+      "referenceName": "Cetrorelix",
+      "referenceSlug": "cetrorelix",
+      "category": "reproductive",
+      "referenceCategory": "Sexual & reproductive",
+      "observedStatus": "FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/cetrorelix"
+    },
+    {
+      "referenceName": "Degarelix",
+      "referenceSlug": "degarelix",
+      "category": "reproductive",
+      "referenceCategory": "Sexual & reproductive",
+      "observedStatus": "FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/degarelix"
+    },
+    {
+      "referenceName": "Ganirelix",
+      "referenceSlug": "ganirelix",
+      "category": "reproductive",
+      "referenceCategory": "Sexual & reproductive",
+      "observedStatus": "FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/ganirelix"
+    },
+    {
+      "referenceName": "Goserelin",
+      "referenceSlug": "goserelin",
+      "category": "reproductive",
+      "referenceCategory": "Sexual & reproductive",
+      "observedStatus": "FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/goserelin"
+    },
+    {
+      "referenceName": "Histrelin",
+      "referenceSlug": "histrelin",
+      "category": "reproductive",
+      "referenceCategory": "Sexual & reproductive",
+      "observedStatus": "FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/histrelin"
+    },
+    {
+      "referenceName": "Human chorionic gonadotropin",
+      "referenceSlug": "human-chorionic-gonadotropin",
+      "category": "reproductive",
+      "referenceCategory": "Sexual & reproductive",
+      "observedStatus": "FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/human-chorionic-gonadotropin"
+    },
+    {
+      "referenceName": "Leuprolide",
+      "referenceSlug": "leuprolide",
+      "category": "reproductive",
+      "referenceCategory": "Sexual & reproductive",
+      "observedStatus": "FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/leuprolide"
+    },
+    {
+      "referenceName": "Lutetium Lu-177 vipivotide tetraxetan",
+      "referenceSlug": "lutetium-lu-177-vipivotide-tetraxetan",
+      "category": "reproductive",
+      "referenceCategory": "Sexual & reproductive",
+      "observedStatus": "FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/lutetium-lu-177-vipivotide-tetraxetan"
+    },
+    {
+      "referenceName": "Nafarelin",
+      "referenceSlug": "nafarelin",
+      "category": "reproductive",
+      "referenceCategory": "Sexual & reproductive",
+      "observedStatus": "FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/nafarelin"
+    },
+    {
+      "referenceName": "Oxytocin",
+      "referenceSlug": "oxytocin",
+      "category": "reproductive",
+      "referenceCategory": "Sexual & reproductive",
+      "observedStatus": "FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/oxytocin"
+    },
+    {
+      "referenceName": "Triptorelin",
+      "referenceSlug": "triptorelin",
+      "category": "reproductive",
+      "referenceCategory": "Sexual & reproductive",
+      "observedStatus": "FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/triptorelin"
+    },
+    {
+      "referenceName": "Kisspeptin-10",
+      "referenceSlug": "kisspeptin-10",
+      "category": "reproductive",
+      "referenceCategory": "Sexual & reproductive",
+      "observedStatus": "Not FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/kisspeptin-10"
+    },
+    {
+      "referenceName": "Gonadorelin (compounded)",
+      "referenceSlug": "compounded-gonadorelin",
+      "category": "reproductive",
+      "referenceCategory": "Sexual & reproductive",
+      "observedStatus": "Not FDA-approved",
+      "referenceUrl": "https://superpower.com/guides/peptides/compounded-gonadorelin"
+    }
+  ]
+}

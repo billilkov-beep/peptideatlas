@@ -1,0 +1,21 @@
+import {build} from 'vite';
+import {mkdir,copyFile} from 'node:fs/promises';
+import {execFileSync} from 'node:child_process';
+import {resolve} from 'node:path';
+import {zipDirectory} from './archive.mjs';
+
+execFileSync(process.execPath,['--import','tsx','scripts/catalog.ts','--check'],{stdio:'inherit'});
+await mkdir('dist/runtime/content',{recursive:true});
+for(const name of ['catalog.json','reference-inventory.json'])await copyFile('content/'+name,'dist/runtime/content/'+name);
+await build();
+await build({configFile:false,build:{outDir:'dist/shared',emptyOutDir:true,lib:{entry:resolve('packages/viewer/index.ts'),name:'PeptideAtlasViewer',formats:['umd'],fileName:()=> 'viewer.js'},minify:'esbuild',sourcemap:false}});
+await copyFile('dist/shared/viewer.js','dist/viewer.js');
+await copyFile('dist/shared/viewer.js','wordpress/peptide-atlas-connector/assets/viewer.js');
+await copyFile('web/public/article.js','wordpress/peptide-atlas-connector/assets/profile.js');
+await copyFile('node_modules/three/LICENSE','wordpress/peptide-atlas-connector/assets/THREE-LICENSE.txt');
+await mkdir('dist/web/downloads',{recursive:true});
+await mkdir('dist/web/licenses',{recursive:true});
+for(const name of ['react','react-dom','scheduler','three'])await copyFile('node_modules/'+name+'/LICENSE','dist/web/licenses/'+name+'.txt');
+const archive=await zipDirectory('wordpress/peptide-atlas-connector','dist/web/downloads/peptide-atlas-connector.zip','peptide-atlas-connector');
+execFileSync(process.execPath,['node_modules/typescript/bin/tsc','-p','tsconfig.server.json'],{stdio:'inherit'});
+console.log(`Built browser app, shared viewer, Node server, and WordPress connector (${archive.files} files).`);
