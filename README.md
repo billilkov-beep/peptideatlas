@@ -8,6 +8,7 @@ A standalone Node.js knowledge platform with an interactive human explorer, an e
 - Full original articles with molecular identity, key takeaways, at-a-glance facts, mechanisms, evidence, uses, safety, regulatory context, relevant FAQs, section citations, and related profiles.
 - Name and alias suggestions, body-system navigation, evidence and regulatory filters, Guide/Sources tabs, crawlable article URLs, canonical links, structured data, and a sitemap.
 - One original shared anatomical viewer: a refined adult human illustration with region hover, smooth zoom, keyboard and touch controls, and a category heading. It works without WebGL. The surrounding website design can differ; the body component stays shared.
+- An AllThingsPeptide theme for the central application: deep navy, warm gold, cream text, Georgia headings and the reference's Inter/system body stack. The body keeps a light ivory canvas and the peptide statuses retain distinct colours.
 - A staff dashboard for structured article editing, sources, recorded review, publishing, withdrawals, revision history, restoration, and an entry-by-entry coverage audit.
 - Administrator and editor accounts, session authentication, CSRF checks, and login rate limiting.
 - Registered website connections, individual read-only keys, category scopes, synchronization status, rotation, and disabling.
@@ -91,10 +92,13 @@ See [the connector guide](docs/CONNECTORS.md) for synchronization, local profile
 - [Complete coverage report](docs/CATALOG-COVERAGE.md): every reference entry mapped to a maintained profile.
 - [Reference audit](docs/REFERENCE-AUDIT.md): the observed site features and original-content coverage.
 - [Viewer package notes](packages/viewer/README.md): shared component behaviour and embedding.
+- [Brand theme](docs/BRAND-THEME.md): palette, fonts, shared CSS variables, connector boundaries and theme verification.
 
 No existing Milligram application or database has been modified. Milligram's schema must be inspected and mapped when that integration begins. The current export is a documented transfer format, not a claim that Milligram already implements an importer.
 
 ## Verification
+
+**Theme release 1.2.1:** TypeScript, the production build, all 30 Node tests, source/bundle consistency, CSS parsing and text-contrast checks passed. The explorer, profile, login and phone-width public layouts were inspected in the browser. The private viewing preview was rebuilt from the same updated source. See [the theme verification boundaries](docs/BRAND-THEME.md#verification-boundaries) for the exact coverage and the checks retained from earlier releases.
 
 The repository contains **30 automated Node checks**: seven backend integration tests, seven catalogue and migration tests, four security regression tests, eight connector tests, and four viewer tests. The WordPress connector separately passed **31 checks** in a disposable WordPress 6.8.11 / PHP 8.3.33 installation using the official WordPress Playground runtime. That run used a controlled central-service fixture to exercise failures consistently.
 

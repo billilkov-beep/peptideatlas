@@ -4,7 +4,7 @@ Tags: knowledge-base, research, API, viewer
 Requires at least: 6.4
 Tested up to: 6.8
 Requires PHP: 8.0
-Stable tag: 1.2.0
+Stable tag: 1.2.1
 License: GPLv2 or later
 
 Connect to one central Peptide Atlas knowledge base and display the same human explorer in your own website's design.

@@ -1,4 +1,4 @@
-export const VIEWER_VERSION = '1.2.0';
+export const VIEWER_VERSION = '1.2.1';
 
 export const CATEGORY_META = [
   { id: 'brain', label: 'Brain & sleep', short: 'Brain', color: '#628dba', point: [0, 3.12, .20], svg: [180, 69] },

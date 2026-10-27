@@ -88,7 +88,7 @@ export async function buildApp(options:AppOptions={}):Promise<FastifyInstance>{
     return {items,version};
   };
 
-  app.get('/api/health',async()=>{await db.query('SELECT 1');return {status:'ok',version:'1.2.0',database:db.kind};});
+  app.get('/api/health',async()=>{await db.query('SELECT 1');return {status:'ok',version:'1.2.1',database:db.kind};});
   app.get('/api/auth/status',async()=>({requiresSetup:!(await db.query('SELECT id FROM atlas_users LIMIT 1')).rows.length}));
   const loginAttempts=new LoginRateLimiter();
   const dummyPasswordHash=await hashPassword(randomToken());
@@ -239,7 +239,7 @@ export async function buildApp(options:AppOptions={}):Promise<FastifyInstance>{
     await db.query('UPDATE atlas_nodes SET last_sync_at=now(),last_version=$2 WHERE id=$1',[node.id,version]);
     reply.header('Cache-Control','private, no-store');reply.header('ETag',`"${version}"`);
     if(request.headers['if-none-match']===`"${version}"`)return reply.code(304).send();
-    return {schemaVersion:1,version,node:{id:node.id,name:node.name,domain:node.domain,theme:node.theme,categories:node.categories},items,generatedAt:new Date().toISOString(),viewerVersion:'1.2.0',maxAgeSeconds:86400};
+    return {schemaVersion:1,version,node:{id:node.id,name:node.name,domain:node.domain,theme:node.theme,categories:node.categories},items,generatedAt:new Date().toISOString(),viewerVersion:'1.2.1',maxAgeSeconds:86400};
   });
   app.get('/api/admin/audit',async request=>{admin(request);const found=await db.query('SELECT * FROM atlas_audit ORDER BY created_at DESC LIMIT 500');return {items:found.rows.map(r=>({id:r.id,action:r.action,label:r.label,actor:r.actor,createdAt:iso(r.created_at)})),total:found.rows.length};});
   app.get('/api/admin/export',async(request,reply)=>{admin(request);reply.header('Content-Disposition',`attachment; filename="peptide-atlas-export-${new Date().toISOString().slice(0,10)}.json"`);return exportBundle(db);});

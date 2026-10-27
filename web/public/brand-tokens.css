@@ -1,0 +1,25 @@
+@import url('/typeface.css');
+
+/* Shared central-application palette, matched to AllThingsPeptide. */
+:root {
+  color-scheme: dark;
+  --atlas-bg: #07101c;
+  --atlas-nav: #081321;
+  --atlas-panel: #101f30;
+  --atlas-panel-raised: #192b3f;
+  --atlas-field: #0a1726;
+  --atlas-text: #efece6;
+  --atlas-heading: #fbf5e8;
+  --atlas-muted: #b6c3d0;
+  --atlas-border: #394451;
+  --atlas-field-border: #516172;
+  --atlas-gold: #e6c77c;
+  --atlas-gold-hover: #ffe3a0;
+  --atlas-gold-soft: #e6c77c14;
+  --atlas-gold-line: #c6a25b55;
+  --atlas-focus: #f5d88b;
+  --atlas-button-text: #101b27;
+  --atlas-button-fill: linear-gradient(120deg, #f0d993, #cba45b);
+  --atlas-panel-fill: linear-gradient(140deg, #112236ee, #0c1929f5);
+  --atlas-page-fill: radial-gradient(ellipse at 90% 10%, #17335170, transparent 42%), radial-gradient(ellipse at 0 55%, #4a382418, transparent 40%), #07101c;
+}

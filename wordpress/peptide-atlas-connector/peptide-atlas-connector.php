@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Peptide Atlas Connector
  * Description: Connects this website to a central Peptide Atlas knowledge base, with a shared human viewer and local branding.
- * Version: 1.2.0
+ * Version: 1.2.1
  * Requires at least: 6.4
  * Requires PHP: 8.0
  * Author: Peptide Atlas
@@ -13,7 +13,7 @@
 if (!defined('ABSPATH')) { exit; }
 
 final class Peptide_Atlas_Connector {
-    const VERSION = '1.2.0';
+    const VERSION = '1.2.1';
     const SETTINGS = 'peptide_atlas_settings';
     const SNAPSHOT = 'peptide_atlas_snapshot';
     const STATUS = 'peptide_atlas_status';
